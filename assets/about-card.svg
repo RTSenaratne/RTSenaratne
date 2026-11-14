@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
+  <title id="title">About Riviprabha</title><desc id="desc">Data Science undergraduate focused on responsible analysis, predictive modelling, collaboration, and clear documentation.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08182d"/><stop offset="1" stop-color="#102f50"/></linearGradient><linearGradient id="line"><stop stop-color="#35c5f0"/><stop offset="1" stop-color="#8b7cf6"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7dd3fc" stroke-opacity=".055"/></pattern></defs>
+  <rect x="2" y="2" width="1196" height="286" rx="24" fill="url(#bg)" stroke="#2c5275" stroke-width="2"/><rect x="2" y="2" width="1196" height="286" rx="24" fill="url(#grid)"/>
+  <rect x="46" y="38" width="7" height="58" rx="3.5" fill="url(#line)"/><text x="76" y="66" fill="#f8fafc" font-family="Segoe UI,Arial" font-size="29" font-weight="700">ABOUT ME</text><text x="76" y="94" fill="#7dd3fc" font-family="Segoe UI,Arial" font-size="15" letter-spacing="2">DATA • ANALYSIS • PRACTICAL SOLUTIONS</text>
+  <text x="48" y="142" fill="#d8e4ee" font-family="Segoe UI,Arial" font-size="18">Data Science undergraduate at SLIIT, transforming academic ideas and data into useful digital solutions.</text>
+  <text x="48" y="174" fill="#a9bfd2" font-family="Segoe UI,Arial" font-size="16">Experience across statistical modelling, intelligent healthcare, mobile applications, and Java systems.</text>
+  <g font-family="Segoe UI,Arial" font-size="15" font-weight="600">
+    <g transform="translate(48 211)"><rect width="245" height="42" rx="12" fill="#0c2944" stroke="#35c5f0" stroke-opacity=".55"/><circle cx="23" cy="21" r="6" fill="#35c5f0"/><text x="41" y="27" fill="#e0f2fe">RESPONSIBLE ANALYSIS</text></g>
+    <g transform="translate(310 211)"><rect width="235" height="42" rx="12" fill="#0c2944" stroke="#8b7cf6" stroke-opacity=".6"/><circle cx="23" cy="21" r="6" fill="#8b7cf6"/><text x="41" y="27" fill="#ede9fe">PREDICTIVE MODELLING</text></g>
+    <g transform="translate(562 211)"><rect width="245" height="42" rx="12" fill="#0c2944" stroke="#35c5f0" stroke-opacity=".55"/><circle cx="23" cy="21" r="6" fill="#35c5f0"/><text x="41" y="27" fill="#e0f2fe">TEAM COLLABORATION</text></g>
+    <g transform="translate(824 211)"><rect width="325" height="42" rx="12" fill="#0c2944" stroke="#8b7cf6" stroke-opacity=".6"/><circle cx="23" cy="21" r="6" fill="#8b7cf6"/><text x="41" y="27" fill="#ede9fe">CLEAR TECHNICAL DOCUMENTATION</text></g>
+  </g>
+</svg>
