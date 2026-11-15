@@ -13,12 +13,16 @@
 
 <img src="assets/projects-board.svg" alt="Featured projects: Employee Absenteeism Analysis, CareLink, Hidden Places, and TripSystem" width="100%" />
 
-<div align="center">
-  <a href="https://github.com/RTSenaratne/Employee-Absenteeism-Analysis"><img src="https://img.shields.io/badge/View-Employee_Absenteeism-14B8A6?style=for-the-badge" alt="View Employee Absenteeism Analysis" /></a>
-  <a href="https://github.com/Ruchira-Rukshan/CareLink-Platform"><img src="https://img.shields.io/badge/View-CareLink-35C5F0?style=for-the-badge" alt="View CareLink" /></a>
-  <a href="https://github.com/GeethDhananjaya/Mobile_App"><img src="https://img.shields.io/badge/View-Hidden_Places-4F8CFF?style=for-the-badge" alt="View Hidden Places" /></a>
-  <a href="https://github.com/it24103552/TripSystem"><img src="https://img.shields.io/badge/View-TripSystem-8B7CF6?style=for-the-badge" alt="View TripSystem" /></a>
-</div>
+## Complete Project Portfolio
+
+| Project | Focus |
+|---|---|
+| [Telecom Churn Data Warehouse & BI](https://github.com/RTSenaratne/telecom-churn-dwbi) | Python ETL, SQL star schema, data warehousing, and Power BI analytics |
+| [Online Retail Customer Analytics](https://github.com/RTSenaratne/online-retail-customer-analytics) | Customer segmentation, clustering, and association-rule mining |
+| [Employee Absenteeism Analysis](https://github.com/RTSenaratne/Employee-Absenteeism-Analysis) | Statistical modelling, regression, PCA, and responsible HR analytics |
+| [CareLink Platform](https://github.com/Ruchira-Rukshan/CareLink-Platform) | AI-enabled healthcare and pharmacy platform |
+| [Hidden Places](https://github.com/GeethDhananjaya/Mobile_App) | Full-stack mobile application for discovering travel destinations |
+| [TripSystem](https://github.com/it24103552/TripSystem) | Travel planning and trip-management application |
 
 <br />
 
